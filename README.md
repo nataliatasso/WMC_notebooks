@@ -11,6 +11,7 @@ Each notebook includes hands-on examples, applications, and exercises that helpe
 - SQL for Data Analysis
 - Statistics and Probability
 - Sampling
+- Pipelines
 - Hypothesis Testing
 - Correlation and Simple Regression
 - Logistic Regression
